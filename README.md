@@ -15,7 +15,8 @@ It is similar to **Zapier, Make.com**, but more powerful because:
 
 You create **workflows** using **nodes** (blocks).
 
-<img  alt="image" src="https://github.com/user-attachments/assets/1a0a12be-0557-4cea-a3e7-f121d5f526b6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/26c645b6-bdf3-4895-8f74-aba058c6ad2c" />
+
 
 
 
