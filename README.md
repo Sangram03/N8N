@@ -15,6 +15,9 @@ It is similar to **Zapier, Make.com**, but more powerful because:
 
 You create **workflows** using **nodes** (blocks).
 
+<img  alt="image" src="https://github.com/user-attachments/assets/71a752d4-9f37-47a9-8ff1-badbf0dd161f" />
+
+
 ---
 
 # 🧩 **Key Components of n8n**
